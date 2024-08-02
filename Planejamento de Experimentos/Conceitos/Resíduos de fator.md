@@ -1,0 +1,3 @@
+***Pertence a [[Fatores]]***
+Os resíduos de fator referem-se à **parte da variabilidade** observada em um experimento que **não pode ser explicada pelo fator** que está sendo estudado.
+Por exemplo, em um estudo sobre doses de uma droga, a variação na pressão arterial de pacientes que estão sob efeito tem uma variação individual. Neste caso, **o fator** é o efeito de diferentes doses do medicamento e **os resíduos** são as diferenças individuais de cada paciente.

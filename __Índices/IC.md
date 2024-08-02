@@ -1,0 +1,2 @@
+[[Estatística Espacial]], [[Estatística Bayesiana]]
+[ ] -> 

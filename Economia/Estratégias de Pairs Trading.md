@@ -1,0 +1,8 @@
+- [[Copula Approach]]
+- [[PCA Strategy]]
+- [[Machine Learning Approach]]
+- [[Optimal Convergence]]
+- [[Stochastic Control Approach]]
+- [[Time Series Approach]]
+- [[Distance Basic Strategy]]
+- [[Core Strategy]]

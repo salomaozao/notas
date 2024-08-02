@@ -1,0 +1,2 @@
+***Pertence a: [[Estatística Espacial]]***
+Um **latent random field** (campo aleatório latente) é um conjunto de variáveis aleatórias que não são observadas diretamente, mas influenciam os dados observados. Esses campos modelam a estrutura subjacente ou dependências nos dados. No contexto de modelos espaciais, eles representam as dependências espaciais ou temporais que não são diretamente mensuradas, mas que afetam as observações.
