@@ -1,0 +1,6 @@
+## PCA Strategy [(00:37:26)](https://www.youtube.com/watch?v=DgU1lSdH3vM&t=2246s)
+
+
+- Principal component analysis | PCA Strategy Overview: The PCA strategy, developed by Avalanche and Lee, focuses on decomposing asset returns into systematic and idiosyncratic components. This decomposition can be achieved by regressing asset returns against a market sector representative, such as a PCA eigen portfolio or sector Exchange-traded fund | ETFs.
+- PCA Eigen Portfolio: A PCA eigen portfolio is created by calculating the eigenvectors of a correlation matrix of assets and adjusting them based on variance. This results in a set of weights that create a portfolio representing a natural split of the assets.
+- Trading Signals: By analyzing the performance of the idiosyncratic component, which is modeled using a John Steinbeck | Steinbeck process, trading signals can be generated. This approach is considered quasi-multivariate as it involves trading one asset against a portfolio of other assets from the same sector. The strategy can be further refined by adjusting model parameters, such as fixing or not fixing the drift, and adjusting returns by volatility to filter out false positive signals.

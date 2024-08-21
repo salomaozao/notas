@@ -1,0 +1,1 @@
+metodologia costuma ser relativamente simples, porque o crítico aqui é performance, então a implementação em programação acaba sendo bem mais importante que a modelagem em si. Honestamente não sei quase nada sobre o assunto kkkk, acho que pouquíssimos no BR fazem isso

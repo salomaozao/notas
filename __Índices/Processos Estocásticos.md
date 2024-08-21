@@ -1,0 +1,1 @@
+📖 ***Processos estocásticos*** são funções aleatórias em função do tempo, podem ser descritas como f(t, x), onde t é a variável tempo e x é uma variável aleatória, ou parcialmente aleatória

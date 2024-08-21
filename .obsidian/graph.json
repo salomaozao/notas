@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Probabilidade 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2717403
+      }
+    },
+    {
+      "query": "path:Índices  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Estatística Bayesiana\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13324882
+      }
+    },
+    {
+      "query": "path:\"Estatística Espacial\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3453616
+      }
+    },
+    {
+      "query": "path:\"Processos Estocásticos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16768568
+      }
+    },
+    {
+      "query": "path:Economia  ",
+      "color": {
+        "a": 1,
+        "rgb": 3115821
+      }
+    },
+    {
+      "query": "path:\"Planejamento de Experimentos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:Regressão  ",
+      "color": {
+        "a": 1,
+        "rgb": 9264342
+      }
+    },
+    {
+      "query": "path:Inferência  ",
+      "color": {
+        "a": 1,
+        "rgb": 14441389
+      }
+    },
+    {
+      "query": "path:\"Estatística Geral\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10511486
+      }
+    },
+    {
+      "query": "path:___livros  ",
+      "color": {
+        "a": 1,
+        "rgb": 4342338
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 1.14635416666667,
+  "collapse-forces": false,
+  "centerStrength": 0.734375,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 189,
+  "scale": 0.2236469013037698,
+  "close": false
+}

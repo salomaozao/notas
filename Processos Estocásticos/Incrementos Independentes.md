@@ -1,0 +1,3 @@
+**Independent increments** são uma propriedade de certos [[Processos Estocásticos]], onde os incrementos do processo em intervalos não sobrepostos são independentes entre si. Em outras palavras, para um processo estocástico $Z(t)$, os incrementos $Z(t2​)−Z(t1​)$ e $Z(t4​)−Z(t3​)$ são independentes se os intervalos Z(t1,t2) e Z(3,t4) não se sobrepõem (ou seja, $t_2 \leq t_3$​ ou $t_4 \leq t_1t$).
+
+Esta propriedade é fundamental em processos estocásticos como o movimento browniano e processos de Poisson, onde a falta de correlação entre incrementos em intervalos distintos permite uma análise mais simples e uma modelagem mais precisa do comportamento aleatório ao longo do tempo.

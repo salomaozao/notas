@@ -1,0 +1,5 @@
+## Distance Basic Strategy [(00:12:35)](https://www.youtube.com/watch?v=DgU1lSdH3vM&t=755s)
+
+- Distance Basic Strategies: The chapter discusses the "Distance Basic" strategy, a simple and robust algorithm for pairs trading. This strategy, originally proposed by Gatev et al., involves identifying pairs of stocks with a historically stable price relationship and exploiting deviations from this relationship. While initially showing high returns, the profitability of this approach has declined since 2005, especially when considering transaction costs.
+- Adjustments and Extensions: Researchers have proposed adjustments to the original Distance Basic strategy, which have shown improved returns and profitability. These adjustments include using alternative metrics like Pearson's correlation to identify pairs and adapting the strategy to specific market conditions.
+- Quasi-Multivariate Extension: The chapter also mentions a quasi-multivariate extension of the Distance Basic strategy. This extension uses multiple metrics to identify pairs, resulting in more robust results and improved performance over a broader backtesting timeframe.

@@ -1,0 +1,2 @@
+- [[Tabela T de Student]]
+- [[Tabela Z da Distribuição Normal Padrão]]

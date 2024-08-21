@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "ced738dadcdc38b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9effde6ed1731f26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "612de7e35a0d4715",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Estatística Bayesiana/_docs/bayesiana_rosangela/Métodos Computationais.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4717c8efcecdc729",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d29f7a1c12713d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f33932a33e432ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42a027ac7620d9b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13d910423bca8531",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 575.5
+  },
+  "right": {
+    "id": "8c43e57b1bd77ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb6390f7f91962c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d22d4421b426abc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "7895893a7fd9086b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estatística Bayesiana/_docs/bayesiana_rosangela/Métodos Computationais.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d7810a9d38d219d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estatística Bayesiana/_docs/bayesiana_rosangela/Métodos Computationais.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b88610ba453e8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estatística Bayesiana/_docs/bayesiana_rosangela/Métodos Computationais.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "obsidian-importer:Open Importer": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "612de7e35a0d4715",
+  "lastOpenFiles": [
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/INFERÊNCIA E DECISÃO.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/1. Introdução e paradigmas.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/EstBayesI-Regressao-P2.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/1. introdução.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/Modelagem.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/Métodos Computationais.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/MÉTODOS DE CONSTRUÇÃO DA DISTRIBUIÇÃO A PRIORI pt.2.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/INFERÊNCIA NA FAMÍLIA NORMAL COM MÉDIA E VARIANCIA DESCONHECIDAS.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/MÉTODOS DE CONSTRUÇÃO DA DISTRIBUIÇÃO A PRIORI pt. 1.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/INFERÊNCIA INTERVALAR.pdf",
+    "Estatística Bayesiana/_docs/bayesiana_rosangela/TESTES DE HIPÓTESES.pdf",
+    "__livros/Think Bayes.md",
+    "INLA.md",
+    "Estatística Bayesiana/INLA/Método INLA.md",
+    "Estatística Bayesiana/Caso de uso de Inf. Bayesiana.md",
+    "Estatística Bayesiana/INLA/Laplace approximation.md",
+    "GAAL.md",
+    "Estatística Geral/Covariável.md",
+    "Estatística Geral/P-valor.md",
+    "Estatística Geral/Estimativas pontuais.md",
+    "__imgs/Untitled-20240816142606741.webp",
+    "__livros/Bayesian Data Analysis.md",
+    "__imgs/Untitled-20240816142814337.webp",
+    "__imgs/Untitled-20240816142742262.webp",
+    "__imgs/Untitled-20240816142629372.webp",
+    "__livros/Hierarchical Modeling and Analysis for Spatial Data.md",
+    "__livros/Estatística Básica - Bussab e Moretim.md",
+    "TeX docs.md",
+    "notas.md",
+    "Tabelas/Tabela T de Student.md",
+    "Tabelas/Tabela Z da Distribuição Normal Padrão.md",
+    "GRMF.md",
+    "Estatística Espacial/Latent Parameters (parâmetros latentes).md",
+    "2..md",
+    "Estatística Bayesiana/1. Inferência Bayesiana.md",
+    "Estatística Bayesiana/INLA/Latent Gaussian Models (LGMs).md",
+    "Processos Estocásticos/Gaussian Markov Random Fields (GMRFs).md",
+    "Estatística Bayesiana/Closed Forms.md",
+    "Estatística Bayesiana/Estimação.md",
+    "Estatística Bayesiana/Hyperparameters (hiperparâmetros).md",
+    "__imgs/g6sxt8bj.bmp",
+    "Untitled.canvas",
+    "__imgs/Pasted image 20240812201724.png",
+    "__imgs/Pasted image 20240810152354.png",
+    "__imgs/Pasted image 20240812201733.png",
+    "__imgs/Pasted image 20240812201731.png",
+    "__imgs/Pasted image 20240711081238.png"
+  ]
+}

@@ -1,0 +1,1 @@
+o que acabo usando mais no meu trabalho. Toda essa parte de processo estocástico que vc citou . Acho que é a parte mais interessante até porque amplia muito o universo do que você pode fazer de investimento (posições em volatilidade, por exemplo). Livro do Hull é o canônico, mas é longo, acho que só o começo já é suficiente
